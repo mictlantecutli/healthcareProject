@@ -83,21 +83,7 @@ class AnalysisData:
     
     
         
-        # sumTotals = topDiseaseTotalsByDate["Total"].sum()
-        
-        # print(topDiseaseTotalsByDate)
-        # print(sumTotals)
-        
-        
-        # #From the data if the three top diseases. I group by hospital, to see what hospitals are more demanded in any issue(top three issues). And  
-        # #and set a new column with the percentage.
-        # for _, row in total_diseases.iterrows():
-        #     disease = row["Medical Condition"]
-        #     total = row["Total"]
-        #     disease_data = self.__dataSet[self.__dataSet['Medical Condition']==f"{disease}"]
-        #     amountHospitalByDisease = disease_data.groupby("Hospital").size().reset_index(name="Total").sort_values(by="Total", ascending=False).head(3)
-        # total_diseases = self.get_top_diseases()
-        # print(total_diseases)
+       
         
         
         

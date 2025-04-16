@@ -25,7 +25,7 @@ The purpose of this software are the following:
 
 # Development Environment
 
-For this project, I used Pandas for data analysis. For graphing, I used Matplotlib. For coding, I used Visual Studio Code. I also used a virtual environment to maintain project-specific versions. Something I forgot about was using a Kaggle dataset.
+For this project, I used Pandas for data analysis. For graphing, I used Matplotlib. For coding, I used Visual Studio Code. I also used a virtual environment to maintain project-specific versions. I used a Kaggle dataset.
 
 The language I used was Python.
 
@@ -44,7 +44,6 @@ The language I used was Python.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* For the option to graph the number of people with the top disease over time, I still need to implement the other years. Perhaps I should have included options so the user could choose the year they want to view.
+* I forgot to analyze the billing amount. I wonder what the average expense is for a particular illness?
+* Implement user input validations
